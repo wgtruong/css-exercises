@@ -1,0 +1,12 @@
+.general {
+    font-size: 36px;
+}
+
+.general.first {
+    background-color: black;
+    color: white;
+}
+
+.general.second{
+    background-color: yellow;
+}
