@@ -1,0 +1,17 @@
+.odd {
+    background-color: rgb(186, 118, 129);
+}
+
+.odd-three {
+    font-size: 24px;
+}
+
+#LineTwo {
+    color: rgb(60, 60, 161);
+    font-size: 36px;
+}
+
+#LineFour {
+    background-color: rgb(91, 151, 91);
+    font-size: 24px;
+}
